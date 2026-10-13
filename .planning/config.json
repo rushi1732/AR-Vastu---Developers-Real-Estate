@@ -1,0 +1,6 @@
+{
+  "project_name": "AR Vastu - Developers & Real Estate",
+  "workflow": "phase-based",
+  "stack": "Next.js 15, React 19, TypeScript, Tailwind CSS, Lucide Icons, Supabase",
+  "git_tracked": true
+}
